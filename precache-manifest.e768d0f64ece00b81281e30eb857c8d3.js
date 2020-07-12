@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f59aaf07713e9bf983a00f6c21843ba9",
+    "revision": "824ea2f5518bc036d90ef8633886a8d4",
     "url": "/jan-ken-pon/index.html"
   },
   {
-    "revision": "7996a26910e4801bbc5e",
-    "url": "/jan-ken-pon/static/css/main.0602e604.chunk.css"
+    "revision": "a2ee3db7a2c07cd59018",
+    "url": "/jan-ken-pon/static/css/main.331a45cc.chunk.css"
   },
   {
     "revision": "33ec6890519b71d05645",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jan-ken-pon/static/js/2.b6dfed0f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7996a26910e4801bbc5e",
+    "revision": "a2ee3db7a2c07cd59018",
     "url": "/jan-ken-pon/static/js/main.6bd194af.chunk.js"
   },
   {

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jan-ken-pon/static/css/main.0602e604.chunk.css",
+    "main.css": "/jan-ken-pon/static/css/main.331a45cc.chunk.css",
     "main.js": "/jan-ken-pon/static/js/main.6bd194af.chunk.js",
     "main.js.map": "/jan-ken-pon/static/js/main.6bd194af.chunk.js.map",
     "runtime-main.js": "/jan-ken-pon/static/js/runtime-main.7dd8f896.js",
@@ -8,15 +8,15 @@
     "static/js/2.b6dfed0f.chunk.js": "/jan-ken-pon/static/js/2.b6dfed0f.chunk.js",
     "static/js/2.b6dfed0f.chunk.js.map": "/jan-ken-pon/static/js/2.b6dfed0f.chunk.js.map",
     "index.html": "/jan-ken-pon/index.html",
-    "precache-manifest.07de860e23ca899c8342acc80e883821.js": "/jan-ken-pon/precache-manifest.07de860e23ca899c8342acc80e883821.js",
+    "precache-manifest.e768d0f64ece00b81281e30eb857c8d3.js": "/jan-ken-pon/precache-manifest.e768d0f64ece00b81281e30eb857c8d3.js",
     "service-worker.js": "/jan-ken-pon/service-worker.js",
-    "static/css/main.0602e604.chunk.css.map": "/jan-ken-pon/static/css/main.0602e604.chunk.css.map",
+    "static/css/main.331a45cc.chunk.css.map": "/jan-ken-pon/static/css/main.331a45cc.chunk.css.map",
     "static/js/2.b6dfed0f.chunk.js.LICENSE.txt": "/jan-ken-pon/static/js/2.b6dfed0f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7dd8f896.js",
     "static/js/2.b6dfed0f.chunk.js",
-    "static/css/main.0602e604.chunk.css",
+    "static/css/main.331a45cc.chunk.css",
     "static/js/main.6bd194af.chunk.js"
   ]
 }
